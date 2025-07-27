@@ -1,0 +1,421 @@
+team,year,round,details
+Atlanta Hawks Future NBA Draft Picks,2026,First,"More favorable of (i) less favorable of ATL and SAN and (ii) less favorable of (a) CLE and (b) more favorable of UTH 1-8 and MIN [or (ii) CLE if UTH not conveyable] then less favorable of (i) and (ii) to CLE; more favorable of ATL and SAN to SAN (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via SAN swap for ATL; via ATL swap of ATL or SAN for CLE, UTH or MIN) ; More favorable of NOP and MIL (via NOP swap for MIL) 2"
+Atlanta Hawks Future NBA Draft Picks,2026,Second,To BRK (via GOS) ; Less favorable of (i) BOS and (ii) more favorable of IND and MIA (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via BOS to ATL) 1
+Atlanta Hawks Future NBA Draft Picks,2027,First,To SAN ; Less favorable of MIL and NOP if either or both 5-30 (via NOP) 1
+Atlanta Hawks Future NBA Draft Picks,2027,Second,To POR (via BOS to MEM) 0
+Atlanta Hawks Future NBA Draft Picks,2028,First,More favorable of (i) ATL and (ii) less favorable of UTH and CLE then least favorable of all to CLE (via UTH swap for CLE; via ATL swap for UTH or CLE) 1
+Atlanta Hawks Future NBA Draft Picks,2028,Second,To BRK (via GOS) 0
+Atlanta Hawks Future NBA Draft Picks,2029,First,Own 1
+Atlanta Hawks Future NBA Draft Picks,2029,Second,To OKC ; CLE 1
+Atlanta Hawks Future NBA Draft Picks,2030,First,Own 1
+Atlanta Hawks Future NBA Draft Picks,2030,Second,Own 1
+Atlanta Hawks Future NBA Draft Picks,2031,First,Own 1
+Atlanta Hawks Future NBA Draft Picks,2031,Second,Own or swap for HOU 31-55 1
+Atlanta Hawks Future NBA Draft Picks,2032,First,Own 1
+Atlanta Hawks Future NBA Draft Picks,2032,Second,Own 1
+Boston Celtics Future NBA Draft Picks,2026,First,Own 1
+Boston Celtics Future NBA Draft Picks,2026,Second,"Less favorable of (i) BOS and (ii) more favorable of IND and MIA to ATL then most favorable of all to MEM or to BRK [MEM can swap this pick for LAC; LAC then conveyed to HOU which then conveyed to BRK] (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via BOS to ATL; via LAC to HOU to BRK) ; Most favorable of MIN, NYK, NOP and POR (via MIN to NYK; via NOP to POR to NOP; via POR to DET to BOS) ; Most favorable of ORL, DET and MIL (via MIL to ORL; via DET to LAC to ORL) 2"
+Boston Celtics Future NBA Draft Picks,2027,First,Own 1
+Boston Celtics Future NBA Draft Picks,2027,Second,More favorable of BOS and ORL then other to ORL (via ORL) 1
+Boston Celtics Future NBA Draft Picks,2028,First,1 Own; 2-30 Own or SAN (via SAN swap for BOS) 1
+Boston Celtics Future NBA Draft Picks,2028,Second,31-45 to SAN if BOS 1 in 2028 ; 46-60 to NYK (via ORL to PHX) 1
+Boston Celtics Future NBA Draft Picks,2029,First,"Most and least favorable of BOS, POR and MIL to POR; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS) 0"
+Boston Celtics Future NBA Draft Picks,2029,Second,To OKC 0
+Boston Celtics Future NBA Draft Picks,2030,First,Own 1
+Boston Celtics Future NBA Draft Picks,2030,Second,To BRK (via HOU) 0
+Boston Celtics Future NBA Draft Picks,2031,First,Own 1
+Boston Celtics Future NBA Draft Picks,2031,Second,Own ; CLE (via ATL) ; HOU 56-60 2 + 1
+Boston Celtics Future NBA Draft Picks,2032,First,Frozen (through 2027-28) 1
+Boston Celtics Future NBA Draft Picks,2032,Second,Own 1
+Brooklyn Nets Future NBA Draft Picks,2026,First,Own (via HOU) 1
+Brooklyn Nets Future NBA Draft Picks,2026,Second,"Own ; ATL (via GOS) ; Less favorable of (i) LAC and (ii) most favorable of BOS, IND and MIA (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via MEM swap of BOS, IND or MIA for LAC; via LAC to HOU to BRK) 3"
+Brooklyn Nets Future NBA Draft Picks,2027,First,Own or HOU (via HOU swap for BRK) ; NYK 2
+Brooklyn Nets Future NBA Draft Picks,2027,Second,More favorable of BRK and DAL to WAS then other to DET (via DAL to BRK to DET; via DET to WAS) ; LAL if LAL conveys 1st round pick to UTH in 2027 1
+Brooklyn Nets Future NBA Draft Picks,2028,First,"If (i) PHL 9-30 , if PHL conveys 1st round pick to OKC in 2026, is third most favorable and (ii) NYK is most or second most favorable of BRK, PHL 9-30 if conveyable , PHX and NYK, then most and third most favorable to BRK; or most / two most favorable to BRK in all other scenarios ; least favorable of BRK, PHX and NYK to NYK if NYK and / or if PHL 9-30 , if conveyable, is less favorable than BRK and PHX; or second most favorable of BRK, PHX and NYK to NYK in all other scenarios ; more favorable of (i) WAS and (ii) least / less favorable of BRK, PHL 9-30 if conveyable, and PHX to WAS then least favorable of all to PHX [WAS can then swap with MIL] (via BRK swap of BRK or PHL for PHX; via BRK swap of BRK or PHX for NYK; via WAS swap for PHX, BRK or PHL) 1 + 1"
+Brooklyn Nets Future NBA Draft Picks,2028,Second,Own ; ATL (via GOS) ; MEM (via PHX) ; PHL if PHL does not convey 1st round pick to BRK in 2028 3 + 1
+Brooklyn Nets Future NBA Draft Picks,2029,First,"Own ; Least favorable of DAL, PHX and HOU (via DAL and PHX to BRK; via DAL or PHX to HOU; via HOU swap for DAL or PHX) ; NYK 3"
+Brooklyn Nets Future NBA Draft Picks,2029,Second,Own ; DAL; GOS; MEM (via PHX) 4
+Brooklyn Nets Future NBA Draft Picks,2030,First,Own 1
+Brooklyn Nets Future NBA Draft Picks,2030,Second,Own ; BOS (via HOU) ; DAL (via BOS to MEM) ; LAL 4
+Brooklyn Nets Future NBA Draft Picks,2031,First,Own ; NYK 2
+Brooklyn Nets Future NBA Draft Picks,2031,Second,Own ; LAL 2
+Brooklyn Nets Future NBA Draft Picks,2032,First,Own ; DEN 2
+Brooklyn Nets Future NBA Draft Picks,2032,Second,Own 1
+Charlotte Hornets Future NBA Draft Picks,2026,First,"Own ; Least favorable of PHX, WAS 1-8, ORL and MEM (via WAS swap for PHX; via MEM swap of ORL for PHX or WAS; via MEM swap for PHX, WAS or ORL; via PHX to CHA) 2"
+Charlotte Hornets Future NBA Draft Picks,2026,Second,31-55 to SAC; 56-60 to DET (via NYK to ATL to SAN to SAC) ; More favorable of DEN and GOS (via DEN to PHX; via GOS to ATL to OKC to NYK) 1
+Charlotte Hornets Future NBA Draft Picks,2027,First,Own ; DAL 3-30; MIA 15-30 1 + 2
+Charlotte Hornets Future NBA Draft Picks,2027,Second,To SAC if SAN 17-30 in 2027 or to OKC if SAN 1-16 in 2027 (via NYK to ATL to SAN to SAC) ; More favorable of POR and NOP (via POR) 1
+Charlotte Hornets Future NBA Draft Picks,2028,First,Own ; MIA if not already settled 1 + 1
+Charlotte Hornets Future NBA Draft Picks,2028,Second,More favorable of CHA and LAC then other to DET [DET may convey to UTH] (via CHA to DAL) ; MIA if DAL does not convey 1st round pick to CHA in 2027 (via SAN to DAL) 1 + 1
+Charlotte Hornets Future NBA Draft Picks,2029,First,"Own ; Least / less favorable of UTH, CLE and MIN 6-30 (via CLE and MIN to UTH to PHX) 2"
+Charlotte Hornets Future NBA Draft Picks,2029,Second,Own ; DEN if DEN has conveyed a first potential 1st round pick to OKC by 2029 1 + 1
+Charlotte Hornets Future NBA Draft Picks,2030,First,Own 1
+Charlotte Hornets Future NBA Draft Picks,2030,Second,Own ; More favorable of UTH and LAC (via UTH) 2
+Charlotte Hornets Future NBA Draft Picks,2031,First,Own 1
+Charlotte Hornets Future NBA Draft Picks,2031,Second,Own ; DEN (via PHX) ; MIL; NYK; PHX 5
+Charlotte Hornets Future NBA Draft Picks,2032,First,Own 1
+Charlotte Hornets Future NBA Draft Picks,2032,Second,Own ; MIL 2
+Chicago Bulls Future NBA Draft Picks,2026,First,Own ; POR 15-30 1 + 1
+Chicago Bulls Future NBA Draft Picks,2026,Second,To HOU (via WAS) 0
+Chicago Bulls Future NBA Draft Picks,2027,First,Own ; POR 15-30 if not already settled 1 + 1
+Chicago Bulls Future NBA Draft Picks,2027,Second,"To WAS (in separate, protected conveyances; via WAS to NOP) 0"
+Chicago Bulls Future NBA Draft Picks,2028,First,Own ; POR 15-30 if not already settled 1 + 1
+Chicago Bulls Future NBA Draft Picks,2028,Second,Own ; POR if POR has not conveyed 1st round pick to CHI by 2028 1 + 1
+Chicago Bulls Future NBA Draft Picks,2029,First,Own 1
+Chicago Bulls Future NBA Draft Picks,2029,Second,Own 1
+Chicago Bulls Future NBA Draft Picks,2030,First,Own 1
+Chicago Bulls Future NBA Draft Picks,2030,Second,Own 1
+Chicago Bulls Future NBA Draft Picks,2031,First,Own 1
+Chicago Bulls Future NBA Draft Picks,2031,Second,Own 1
+Chicago Bulls Future NBA Draft Picks,2032,First,Own 1
+Chicago Bulls Future NBA Draft Picks,2032,Second,Own 1
+Cleveland Cavaliers Future NBA Draft Picks,2026,First,"Less favorable of (i) less favorable of (a) CLE and (b) more favorable of UTH 1-8 and MIN [or (i) CLE if UTH not conveyable] and (ii) less favorable of ATL and SAN then more favorable of (i) and (ii) to ATL; most / more favorable of CLE, MIN and UTH 1-8 to UTH (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE; via SAN swap for ATL; via ATL swap of ATL or SAN for CLE, UTH or MIN) 1"
+Cleveland Cavaliers Future NBA Draft Picks,2026,Second,Own 1
+Cleveland Cavaliers Future NBA Draft Picks,2027,First,"Two most favorable of CLE, MIN and UTH to UTH then other to PHX (via CLE and MIN to UTH) 0"
+Cleveland Cavaliers Future NBA Draft Picks,2027,Second,To MIN (via ATL) ; DEN 1
+Cleveland Cavaliers Future NBA Draft Picks,2028,First,"Least favorable of CLE, UTH and ATL; more favorable of CLE and UTH to UTH; more favorable of (i) ATL and (ii) less favorable of CLE and UTH to ATL (via UTH swap for CLE; via ATL swap for CLE or UTH) 1"
+Cleveland Cavaliers Future NBA Draft Picks,2028,Second,Own 1
+Cleveland Cavaliers Future NBA Draft Picks,2029,First,"Most / two most favorable of CLE, MIN 6-30 and UTH to UTH then other to CHA (via CLE and MIN to UTH to PHX) 0"
+Cleveland Cavaliers Future NBA Draft Picks,2029,Second,To ATL 0
+Cleveland Cavaliers Future NBA Draft Picks,2030,First,Own 1
+Cleveland Cavaliers Future NBA Draft Picks,2030,Second,To SAN 0
+Cleveland Cavaliers Future NBA Draft Picks,2031,First,Own 1
+Cleveland Cavaliers Future NBA Draft Picks,2031,Second,To BOS (via ATL) 0
+Cleveland Cavaliers Future NBA Draft Picks,2032,First,Own 1
+Cleveland Cavaliers Future NBA Draft Picks,2032,Second,Own 1
+Dallas Mavericks Future NBA Draft Picks,2026,First,Own 1
+Dallas Mavericks Future NBA Draft Picks,2026,Second,"Most favorable of DAL, OKC and PHL to OKC; second most favorable to PHX and least favorable to WAS (via OKC to HOU to PHX; via OKC to MIA to SAN to WAS) 0"
+Dallas Mavericks Future NBA Draft Picks,2027,First,1-2 Own; 3-30 to CHA 1
+Dallas Mavericks Future NBA Draft Picks,2027,Second,More favorable of DAL and BRK to WAS then other to DET (via DET to WAS; via DAL to BRK to DET) 0
+Dallas Mavericks Future NBA Draft Picks,2028,First,Own or OKC (via OKC swap for DAL) 1
+Dallas Mavericks Future NBA Draft Picks,2028,Second,To IND (via SAC) 0
+Dallas Mavericks Future NBA Draft Picks,2029,First,"Two most favorable of DAL, HOU and PHX to HOU then other to BRK (via DAL and PHX to BRK; via DAL or PHX to HOU; via HOU swap for DAL or PHX) ; LAL 1"
+Dallas Mavericks Future NBA Draft Picks,2029,Second,To BRK 0
+Dallas Mavericks Future NBA Draft Picks,2030,First,Own or SAN (via SAN swap for DAL) ; less favorable of (i) MIN 2-30 and (ii) more favorable of DAL and SAN [or MIN if MIN not conveyable] to MIN then most / more favorable of all to SAN (via SAN swap for DAL; via SAN swap of SAN or DAL for MIN) 1
+Dallas Mavericks Future NBA Draft Picks,2030,Second,To BRK (via BOS to MEM) ; PHL 1
+Dallas Mavericks Future NBA Draft Picks,2031,First,Own 1
+Dallas Mavericks Future NBA Draft Picks,2031,Second,To DET (via PHL) 0
+Dallas Mavericks Future NBA Draft Picks,2032,First,Own 1
+Dallas Mavericks Future NBA Draft Picks,2032,Second,Own 1
+Denver Nuggets Future NBA Draft Picks,2026,First,Own 1
+Denver Nuggets Future NBA Draft Picks,2026,Second,More favorable of DEN and GOS to CHA then other to MIN (via DEN to PHX to CHA; via GOS to ATL to OKC to NYK to CHA; via CHA to PHX to MIN) 0
+Denver Nuggets Future NBA Draft Picks,2027,First,1-5 Own; 6-30 to OKC or to LAC [OKC can swap OKC or DEN for LAC] 1
+Denver Nuggets Future NBA Draft Picks,2027,Second,To CLE 0
+Denver Nuggets Future NBA Draft Picks,2028,First,1-5 Own; 6-30 to OKC if not already settled 1
+Denver Nuggets Future NBA Draft Picks,2028,Second,31-33 Own; 34-60 to WAS (via SAN to SAC) 1
+Denver Nuggets Future NBA Draft Picks,2029,First,1-5 Own; 6-30 to OKC if not already settled ; or 1-5 Own; 6-30 to OKC if DEN has conveyed a first potential 1st round pick to OKC by 2027 1
+Denver Nuggets Future NBA Draft Picks,2029,Second,To OKC if DEN has not conveyed a first potential 1st round pick to OKC by 2029 or to CHA if DEN has conveyed a first potential 1st round pick to OKC by 2029 0
+Denver Nuggets Future NBA Draft Picks,2030,First,1-5 Own; 6-30 to OKC if DEN has conveyed a first potential 1st round pick to OKC by 2028 1
+Denver Nuggets Future NBA Draft Picks,2030,Second,To OKC (via CHA) 0
+Denver Nuggets Future NBA Draft Picks,2031,First,Own 1
+Denver Nuggets Future NBA Draft Picks,2031,Second,To CHA (via PHX) 0
+Denver Nuggets Future NBA Draft Picks,2032,First,To BRK 0
+Denver Nuggets Future NBA Draft Picks,2032,Second,Own 1
+Detroit Pistons Future NBA Draft Picks,2026,First,Own 1
+Detroit Pistons Future NBA Draft Picks,2026,Second,"Most favorable of DET, ORL and MIL to BOS; second most favorable to ORL and least favorable to NYK (via MIL to ORL; via DET to LAC to ORL; via ORL to PHX to BRK to NYK) ; CHA 56-60 (via NYK to ATL to SAN to SAC) 1"
+Detroit Pistons Future NBA Draft Picks,2027,First,Own 1
+Detroit Pistons Future NBA Draft Picks,2027,Second,Own ; Less favorable of BRK and DAL (via DAL to BRK to DET) ; MIL (via PHL) 3
+Detroit Pistons Future NBA Draft Picks,2028,First,Own 1
+Detroit Pistons Future NBA Draft Picks,2028,Second,31-55 Own * ; 56-60 to PHL ; Less favorable of CHA and LAC* (via CHA to DAL) ; MIA* if DAL conveys 1st round pick to CHA in 2027 (via SAN to DAL) ; NYK* *Least favorable of these to UTH 1 + 2
+Detroit Pistons Future NBA Draft Picks,2029,First,Own 1
+Detroit Pistons Future NBA Draft Picks,2029,Second,"Two most favorable of DET, MIL and NYK then other to SAC (via MIL to BRK to DET; via NYK to DET) 2"
+Detroit Pistons Future NBA Draft Picks,2030,First,Own 1
+Detroit Pistons Future NBA Draft Picks,2030,Second,Own ; MIN 2
+Detroit Pistons Future NBA Draft Picks,2031,First,Own 1
+Detroit Pistons Future NBA Draft Picks,2031,Second,Own ; DAL (via PHL) ; Less favorable of GOS and MIN (via MIN swap for GOS) 3
+Detroit Pistons Future NBA Draft Picks,2032,First,Own 1
+Detroit Pistons Future NBA Draft Picks,2032,Second,Own 1
+Golden State Warriors Future NBA Draft Picks,2026,First,Own 1
+Golden State Warriors Future NBA Draft Picks,2026,Second,More favorable of GOS and DEN to CHA then other to MIN (via GOS to ATL to OKC to NYK to CHA; via DEN to PHX to CHA; via CHA to PHX to MIN) 0
+Golden State Warriors Future NBA Draft Picks,2027,First,Own 1
+Golden State Warriors Future NBA Draft Picks,2027,Second,More favorable of GOS and PHX to PHL then other to WAS (via WAS) 0
+Golden State Warriors Future NBA Draft Picks,2028,First,Own 1
+Golden State Warriors Future NBA Draft Picks,2028,Second,To PHL (via POR to WAS) 0
+Golden State Warriors Future NBA Draft Picks,2029,First,Own 1
+Golden State Warriors Future NBA Draft Picks,2029,Second,To BRK 0
+Golden State Warriors Future NBA Draft Picks,2030,First,1-20 Own; 21-30 to WAS 1
+Golden State Warriors Future NBA Draft Picks,2030,Second,To WAS if GOS does not convey 1st round pick to WAS in 2030 1
+Golden State Warriors Future NBA Draft Picks,2031,First,Own 1
+Golden State Warriors Future NBA Draft Picks,2031,Second,More favorable of GOS and MIN to MIN then other to DET (via MIN swap for GOS) 0
+Golden State Warriors Future NBA Draft Picks,2032,First,Own 1
+Golden State Warriors Future NBA Draft Picks,2032,Second,31-50 Own; 51-60 to MEM 1
+Houston Rockets Future NBA Draft Picks,2026,First,"1-4 Own; two most / more favorable of HOU 5-30, LAC and OKC to OKC then other to WAS (via OKC to PHL) 1"
+Houston Rockets Future NBA Draft Picks,2026,Second,To OKC if HOU 1-4 in 2026 ; CHI (via WAS) 1 + 1
+Houston Rockets Future NBA Draft Picks,2027,First,Own or swap for BRK ; PHX (via BRK) 2
+Houston Rockets Future NBA Draft Picks,2027,Second,"Most favorable of HOU, OKC, IND and MIA to OKC; second and third most favorable to NYK; more favorable of (i) SAN and (ii) least favorable of HOU, OKC, IND and MIA to SAN then least favorable of all to MIA (via HOU to DET to OKC to NYK; via MIA to OKC to UTH to SAN to MIA) ; MEM (via LAC) ; Less favorable of POR and NOP if either or both 56-60 (via POR to BOS) 1 + 1"
+Houston Rockets Future NBA Draft Picks,2028,First,Own 1
+Houston Rockets Future NBA Draft Picks,2028,Second,Own (via ATL) 1
+Houston Rockets Future NBA Draft Picks,2029,First,"Two most favorable of HOU, DAL and PHX then other to BRK (via DAL and PHX to BRK; via DAL or PHX to HOU; via HOU swap for DAL or PHX) 2"
+Houston Rockets Future NBA Draft Picks,2029,Second,To WAS (via OKC) ; SAC (via WAS) 1
+Houston Rockets Future NBA Draft Picks,2030,First,Own 1
+Houston Rockets Future NBA Draft Picks,2030,Second,To OKC 0
+Houston Rockets Future NBA Draft Picks,2031,First,Own 1
+Houston Rockets Future NBA Draft Picks,2031,Second,31-55 Own or ATL (via ATL swap for HOU) ; 56-60 to BOS 1
+Houston Rockets Future NBA Draft Picks,2032,First,Own 1
+Houston Rockets Future NBA Draft Picks,2032,Second,More favorable of HOU and PHX to MIN then other to PHX (via PHX) 0
+Indiana Pacers Future NBA Draft Picks,2026,First,Own (via TOR to NOP) 1
+Indiana Pacers Future NBA Draft Picks,2026,Second,More favorable of (i) SAN and (ii) less favorable of IND and MIA to SAN then least favorable of all to MIN; less favorable of (i) BOS and (ii) more favorable of IND and MIA to ATL then most favorable of all to MEM or to BRK [MEM can swap this pick for LAC; LAC then conveyed to HOU which then conveyed to BRK] (via MIA to IND; via SAN swap for IND or MIA; via MIL to MEM; via MEM swap of IND or MIA for BOS; via BOS to ATL) ; TOR 56-60 1
+Indiana Pacers Future NBA Draft Picks,2027,First,Own 1
+Indiana Pacers Future NBA Draft Picks,2027,Second,"Most favorable of IND, OKC, HOU and MIA to OKC; second and third most favorable to NYK; more favorable of (i) SAN and (ii) least favorable of IND, OKC, HOU and MIA to SAN then least favorable of all to MIA (via HOU to DET to OKC to NYK; via MIA to OKC to UTH to SAN to MIA) ; UTH (via CLE) 1"
+Indiana Pacers Future NBA Draft Picks,2028,First,Own 1
+Indiana Pacers Future NBA Draft Picks,2028,Second,More favorable of IND and PHX then other to NYK (via IND) ; DAL (via SAC) 2
+Indiana Pacers Future NBA Draft Picks,2029,First,Own 1
+Indiana Pacers Future NBA Draft Picks,2029,Second,More favorable of IND and WAS then other to POR (via IND to NYK) 1
+Indiana Pacers Future NBA Draft Picks,2030,First,Own 1
+Indiana Pacers Future NBA Draft Picks,2030,Second,Own 1
+Indiana Pacers Future NBA Draft Picks,2031,First,Own 1
+Indiana Pacers Future NBA Draft Picks,2031,Second,"Least favorable of IND, MIA and MEM; more favorable of IND and MIA to WAS; more favorable of (i) MEM and (ii) less favorable of IND and MIA to MEM (via MIA swap for IND; via UTH to WAS; via MEM swap for IND or MIA) 1"
+Indiana Pacers Future NBA Draft Picks,2032,First,Own 1
+Indiana Pacers Future NBA Draft Picks,2032,Second,Own 1
+Los Angeles Clippers Future NBA Draft Picks,2026,First,"Two most / more favorable of LAC, HOU 5-30 and OKC to OKC then other to WAS (via OKC to PHL) 0"
+Los Angeles Clippers Future NBA Draft Picks,2026,Second,"Less favorable of (i) LAC and (ii) most favorable of BOS, IND and MIA to BRK then most favorable of all to MEM (via MIA to IND to MIL; via MEM swap of IND or MIA for BOS; via MEM swap of BOS, IND or MIA for LAC; via LAC to HOU to BRK) ; MEM 31-42 (via UTH to ATL) 1"
+Los Angeles Clippers Future NBA Draft Picks,2027,First,"Least / less favorable of LAC, DEN 6-30 and OKC (via OKC swap of OKC or DEN for LAC) 1"
+Los Angeles Clippers Future NBA Draft Picks,2027,Second,To UTH (via ATL to LAC) 0
+Los Angeles Clippers Future NBA Draft Picks,2028,First,To PHL 0
+Los Angeles Clippers Future NBA Draft Picks,2028,Second,More favorable of LAC and CHA to CHA then other to DET [DET may convey to UTH] (via CHA to DAL) 0
+Los Angeles Clippers Future NBA Draft Picks,2029,First,1-3 Own; 4-30 Own or PHL (via PHL swap for LAC) 1
+Los Angeles Clippers Future NBA Draft Picks,2029,Second,To SAN (via PHL) 0
+Los Angeles Clippers Future NBA Draft Picks,2030,First,Own 1
+Los Angeles Clippers Future NBA Draft Picks,2030,Second,More favorable of LAC and UTH to CHA then other to LAC (via LAC to UTH) 0
+Los Angeles Clippers Future NBA Draft Picks,2031,First,Own 1
+Los Angeles Clippers Future NBA Draft Picks,2031,Second,Own 1
+Los Angeles Clippers Future NBA Draft Picks,2032,First,Own 1
+Los Angeles Clippers Future NBA Draft Picks,2032,Second,Own 1
+Los Angeles Lakers Future NBA Draft Picks,2026,First,Own 1
+Los Angeles Lakers Future NBA Draft Picks,2026,Second,To TOR (via CLE to MIA) 0
+Los Angeles Lakers Future NBA Draft Picks,2027,First,1-4 Own; 5-30 to UTH 1
+Los Angeles Lakers Future NBA Draft Picks,2027,Second,To BRK if LAL conveys 1st round pick to UTH in 2027 or to UTH if LAL does not convey 1st round pick to UTH in 2027 0
+Los Angeles Lakers Future NBA Draft Picks,2028,First,Own 1
+Los Angeles Lakers Future NBA Draft Picks,2028,Second,More favorable of LAL and WAS to ORL then other to WAS (via WAS to LAL to ORL; via LAL to WAS) 0
+Los Angeles Lakers Future NBA Draft Picks,2029,First,To DAL 0
+Los Angeles Lakers Future NBA Draft Picks,2029,Second,To WAS 0
+Los Angeles Lakers Future NBA Draft Picks,2030,First,Own 1
+Los Angeles Lakers Future NBA Draft Picks,2030,Second,To BRK 0
+Los Angeles Lakers Future NBA Draft Picks,2031,First,Own 1
+Los Angeles Lakers Future NBA Draft Picks,2031,Second,To BRK 0
+Los Angeles Lakers Future NBA Draft Picks,2032,First,Own 1
+Los Angeles Lakers Future NBA Draft Picks,2032,Second,Own 1
+Memphis Grizzlies Future NBA Draft Picks,2026,First,"Two most favorable of (i) MEM, (ii) less favorable of PHX and WAS 1-8 [or (ii) PHX if WAS not conveyable] and (iii) ORL then least favorable of (i), (ii) and (iii) to CHA (via WAS swap for PHX; via MEM swap of ORL for PHX or WAS; via MEM swap for PHX, WAS or ORL; via PHX to CHA) 2"
+Memphis Grizzlies Future NBA Draft Picks,2026,Second,"31-42 to LAC (via UTH to ATL) ; 43-60 to POR (via UTH to GOS) ; Most favorable LAC, BOS, IND and MIA (via MIA to IND; via MIL to MEM; via MEM swap of IND or MIA for BOS; via MEM swap of BOS, IND or MIA for LAC) 1"
+Memphis Grizzlies Future NBA Draft Picks,2027,First,Own 1
+Memphis Grizzlies Future NBA Draft Picks,2027,Second,To HOU (via LAC) 0
+Memphis Grizzlies Future NBA Draft Picks,2028,First,Own 1
+Memphis Grizzlies Future NBA Draft Picks,2028,Second,To BRK (via PHX) 0
+Memphis Grizzlies Future NBA Draft Picks,2029,First,Own or swap for ORL 3-30 1
+Memphis Grizzlies Future NBA Draft Picks,2029,Second,To BRK (via PHX) ; ORL if ORL 1-2 in 2029 ; POR (via PHL to IND) 1 + 1
+Memphis Grizzlies Future NBA Draft Picks,2030,First,More favorable of (i) MEM and (ii) less favorable of PHX and WAS then least favorable of all to PHX (via WAS swap for PHX; via MEM swap for PHX or WAS) ; ORL 2
+Memphis Grizzlies Future NBA Draft Picks,2030,Second,31-50 Own; 51-60 to MIN 1
+Memphis Grizzlies Future NBA Draft Picks,2031,First,Own 1
+Memphis Grizzlies Future NBA Draft Picks,2031,Second,More favorable of (i) MEM and (ii) less favorable of IND and MIA then least favorable of all to IND (via MIA swap for IND; via MEM swap for IND or MIA) 1
+Memphis Grizzlies Future NBA Draft Picks,2032,First,Own 1
+Memphis Grizzlies Future NBA Draft Picks,2032,Second,Own ; GOS 51-60 1 + 1
+Miami Heat Future NBA Draft Picks,2026,First,Own 1
+Miami Heat Future NBA Draft Picks,2026,Second,More favorable of (i) SAN and (ii) less favorable of MIA and IND to SAN then least favorable of all to MIN; less favorable of (i) BOS and (ii) more favorable of MIA and IND to ATL then most favorable of all to MEM or to BRK [MEM can swap this pick for LAC; LAC then conveyed to HOU which then conveyed to BRK] (via MIA to IND; via SAN swap for IND or MIA; via MIL to MEM; via MEM swap of IND or MIA for BOS; via BOS to ATL) 0
+Miami Heat Future NBA Draft Picks,2027,First,1-14 Own; 15-30 to CHA 1
+Miami Heat Future NBA Draft Picks,2027,Second,"Least favorable of MIA, OKC, HOU, IND and SAN; most favorable of MIA, OKC, HOU and IND to OKC; second and third most favorable to NYK; more favorable of (i) SAN and (ii) least favorable of MIA, OKC, HOU and IND to SAN (via MIA to OKC to UTH to SAN to MIA; via HOU to DET to OKC to NYK) 1"
+Miami Heat Future NBA Draft Picks,2028,First,To CHA if not already settled 1
+Miami Heat Future NBA Draft Picks,2028,Second,To DET if DAL conveys 1st round pick to CHA in 2027 or to CHA if DAL does not convey 1st round pick to CHA in 2027 [DET may convey to UTH] (via SAN to DAL) 0
+Miami Heat Future NBA Draft Picks,2029,First,Own 1
+Miami Heat Future NBA Draft Picks,2029,Second,To OKC 0
+Miami Heat Future NBA Draft Picks,2030,First,Own 1
+Miami Heat Future NBA Draft Picks,2030,Second,To OKC 0
+Miami Heat Future NBA Draft Picks,2031,First,Own 1
+Miami Heat Future NBA Draft Picks,2031,Second,More favorable of MIA and IND to WAS; more favorable of (i) MEM and (ii) less favorable of MIA and IND to MEM then least favorable of all to IND (via MIA swap for IND; via UTH to WAS; via MEM swap for IND or MIA) 0
+Miami Heat Future NBA Draft Picks,2032,First,Own 1
+Miami Heat Future NBA Draft Picks,2032,Second,Own 1
+Milwaukee Bucks Future NBA Draft Picks,2026,First,Less favorable of MIL and NOP then other to ATL (via NOP swap for MIL) 1
+Milwaukee Bucks Future NBA Draft Picks,2026,Second,"Most favorable of MIL, ORL and DET to BOS; second most favorable to ORL and least favorable to NYK (via MIL to ORL; via DET to LAC to ORL; via ORL to PHX to BRK to NYK) ; UTH 56-60 (via MIN to SAN) 1"
+Milwaukee Bucks Future NBA Draft Picks,2027,First,More favorable of MIL and NOP to NOP then other to ATL if 5-30 or MIL and NOP to NOP if both 1-4 (via NOP) 0
+Milwaukee Bucks Future NBA Draft Picks,2027,Second,To DET (via PHL) 0
+Milwaukee Bucks Future NBA Draft Picks,2028,First,"Less favorable of (i) less favorable of MIL and POR 1-14 if POR has not conveyed 1st round pick to CHI by 2027 [or (i) MIL if POR not conveyable], and (ii) more favorable of (a) WAS and (b) least / less favorable of BRK, PHL 9-30 if PHL conveys 1st round pick to OKC in 2026, and PHX then more favorable of (i) and (ii) to WAS; or Less favorable of (i) less favorable of MIL and POR if POR has conveyed 1st round pick to CHI by 2027, and (ii) more favorable of (a) WAS and (b) least / less favorable of BRK, PHL 9-30 if PHL conveys 1st round pick to OKC in 2026, and PHX then more favorable of (i) and (ii) to WAS (via POR swap for MIL; via BRK swap of BRK or PHL for PHX; via WAS swap for PHX, BRK or PHL; via WAS swap of WAS, BRK, PHL or PHX for MIL or POR) 1"
+Milwaukee Bucks Future NBA Draft Picks,2028,Second,To OKC (via BRK to HOU) 0
+Milwaukee Bucks Future NBA Draft Picks,2029,First,"Most and least favorable of MIL, BOS and POR to POR; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS) 0"
+Milwaukee Bucks Future NBA Draft Picks,2029,Second,"Two most favorable of MIL, DET and NYK to DET then other to SAC (via MIL to BRK to DET; via NYK to DET) 0"
+Milwaukee Bucks Future NBA Draft Picks,2030,First,Own or POR (via POR swap for MIL) 1
+Milwaukee Bucks Future NBA Draft Picks,2030,Second,To ORL 0
+Milwaukee Bucks Future NBA Draft Picks,2031,First,Own 1
+Milwaukee Bucks Future NBA Draft Picks,2031,Second,To CHA 0
+Milwaukee Bucks Future NBA Draft Picks,2032,First,Own 1
+Milwaukee Bucks Future NBA Draft Picks,2032,Second,To CHA 0
+Minnesota Timberwolves Future NBA Draft Picks,2026,First,Less favorable of MIN and UTH 1-8 [or MIN if UTH not conveyable] ; less favorable of (i) CLE and (ii) more favorable of MIN and UTH 1-8 [or CLE if UTH not conveyable] to CLE then most / more favorable of all to UTH [CLE may convey to ATL] (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE) 1
+Minnesota Timberwolves Future NBA Draft Picks,2026,Second,"Less favorable of MIN and NYK to NYK; most favorable of MIN, NYK, NOP and POR to BOS; less favorable of (i) more favorable of MIN and NYK and (ii) more favorable of NOP and POR to WAS (via MIN to NYK; via NOP to POR to NOP; via POR to DET to BOS; via DET to WAS) ; Less favorable of DEN and GOS (via DEN to PHX to CHA; via GOS to ATL to OKC to NYK to CHA; via CHA to PHX to MIN) ; Least favorable of IND, MIA and SAN (via MIA to IND; via SAN swap for IND or MIA) 2"
+Minnesota Timberwolves Future NBA Draft Picks,2027,First,"Two most favorable of MIN, CLE and UTH to UTH then other to PHX (via CLE and MIN to UTH) 0"
+Minnesota Timberwolves Future NBA Draft Picks,2027,Second,To POR (via HOU to OKC to NYK) ; CLE (via ATL) 1
+Minnesota Timberwolves Future NBA Draft Picks,2028,First,Own 1
+Minnesota Timberwolves Future NBA Draft Picks,2028,Second,To SAN 0
+Minnesota Timberwolves Future NBA Draft Picks,2029,First,"1-5 Own; most / two most favorable of MIN 6-30, CLE and UTH to UTH then other to CHA (via CLE and MIN to UTH to PHX) 1"
+Minnesota Timberwolves Future NBA Draft Picks,2029,Second,To UTH if MIN does not convey 1st round pick to UTH in 2029 1
+Minnesota Timberwolves Future NBA Draft Picks,2030,First,1 Own; less favorable of (i) MIN 2-30 and (ii) more favorable of SAN and DAL then most / more favorable of all to SAN (via SAN swap for DAL; via SAN swap of SAN or DAL for MIN) 1
+Minnesota Timberwolves Future NBA Draft Picks,2030,Second,To DET ; MEM 51-60 1
+Minnesota Timberwolves Future NBA Draft Picks,2031,First,To SAC (via SAN) 0
+Minnesota Timberwolves Future NBA Draft Picks,2031,Second,More favorable of MIN and GOS then other to DET (via MIN swap for GOS) 1
+Minnesota Timberwolves Future NBA Draft Picks,2032,First,Frozen (through 2027-28) 1
+Minnesota Timberwolves Future NBA Draft Picks,2032,Second,Own ; More favorable of PHX and HOU (via PHX) 2
+New Orleans Pelicans Future NBA Draft Picks,2026,First,More favorable of NOP and MIL to ATL then other to MIL (via NOP swap for MIL) 0
+New Orleans Pelicans Future NBA Draft Picks,2026,Second,"Most favorable of NOP, POR, MIN and NYK to BOS; less favorable of NOP and POR to SAN; less favorable of (i) more favorable of NOP and POR and (ii) more favorable of MIN and NYK to WAS (via NOP to POR to NOP; via POR to DET; via MIN to NYK; via NOP to SAN; via DET to BOS; via DET to WAS) 0"
+New Orleans Pelicans Future NBA Draft Picks,2027,First,More favorable of NOP and MIL then other to ATL if 5-30 or NOP and MIL if both 1-4 (via NOP) 1 + 1
+New Orleans Pelicans Future NBA Draft Picks,2027,Second,More favorable of NOP and POR to CHA then other to POR [POR may convey to HOU] (via NOP) 0
+New Orleans Pelicans Future NBA Draft Picks,2028,First,Own 1
+New Orleans Pelicans Future NBA Draft Picks,2028,Second,To SAN 0
+New Orleans Pelicans Future NBA Draft Picks,2029,First,Own 1
+New Orleans Pelicans Future NBA Draft Picks,2029,Second,To SAN 0
+New Orleans Pelicans Future NBA Draft Picks,2030,First,Own 1
+New Orleans Pelicans Future NBA Draft Picks,2030,Second,Own or ORL (via ORL swap for NOP) 1
+New Orleans Pelicans Future NBA Draft Picks,2031,First,Own 1
+New Orleans Pelicans Future NBA Draft Picks,2031,Second,More favorable of NOP and ORL to ORL then other to OKC (via ORL swap for NOP) ; TOR 1
+New Orleans Pelicans Future NBA Draft Picks,2032,First,Own 1
+New Orleans Pelicans Future NBA Draft Picks,2032,Second,Own 1
+New York Knicks Future NBA Draft Picks,2026,First,Own ; WAS 9-30 (via HOU to OKC) 1 + 1
+New York Knicks Future NBA Draft Picks,2026,Second,"Less favorable of NYK and MIN; most favorable of NYK, MIN, NOP and POR to BOS; less favorable of (i) more favorable of NYK and MIN and (ii) more favorable of NOP and POR to WAS (via MIN to NYK; via NOP to POR to NOP; via POR to DET to BOS; via DET to WAS) ; Least favorable of DET, MIL and ORL (via DET to LAC to ORL; via ORL to PHX to BRK to NYK) ; WAS if WAS does not convey 1st round pick to NYK in 2026 (via HOU to OKC) 2 + 1"
+New York Knicks Future NBA Draft Picks,2027,First,To BRK 0
+New York Knicks Future NBA Draft Picks,2027,Second,"Own ; WAS if WAS does not convey 1st round pick to NYK in 2026 (via HOU to OKC) ; Second and third most favorable of OKC, HOU, IND and MIA (via HOU to DET to OKC to NYK) 3 + 1"
+New York Knicks Future NBA Draft Picks,2028,First,"Least favorable of NYK, BRK and PHX if NYK and / or if PHL 9-30 , if PHL conveys 1st round pick to OKC in 2026, is less favorable than BRK and PHX; or second most favorable of NYK, BRK and PHX in all other scenarios ; if (i) PHL 9-30 , if conveyable, is third most favorable and (ii) NYK is most or second most favorable of NYK, BRK, PHL 9-30 if conveyable, and PHX, then most and third most favorable to BRK; or most / two most favorable to BRK in all other scenarios (via BRK swap of BRK or PHL for PHX; via BRK swap of BRK or PHX for NYK; via WAS swap for PHX, BRK or PHL) 1"
+New York Knicks Future NBA Draft Picks,2028,Second,To DET [DET may convey to UTH] ; BOS 46-60 (via ORL to PHX) ; Less favorable of IND and PHX (via IND) 1 + 1
+New York Knicks Future NBA Draft Picks,2029,First,To BRK 0
+New York Knicks Future NBA Draft Picks,2029,Second,"Two most favorable of NYK, DET and MIL to DET then other to SAC (via NYK to DET; via MIL to BRK to DET) 0"
+New York Knicks Future NBA Draft Picks,2030,First,Own 1
+New York Knicks Future NBA Draft Picks,2030,Second,To POR 0
+New York Knicks Future NBA Draft Picks,2031,First,To BRK 0
+New York Knicks Future NBA Draft Picks,2031,Second,To CHA 0
+New York Knicks Future NBA Draft Picks,2032,First,Own 1
+New York Knicks Future NBA Draft Picks,2032,Second,Own 1
+Oklahoma City Thunder Future NBA Draft Picks,2026,First,"Two most / more favorable of OKC, HOU 5-30 and LAC then other to WAS (via OKC to PHL) ; PHL 5-30; UTH 9-30 1 + 3"
+Oklahoma City Thunder Future NBA Draft Picks,2026,Second,"Most favorable of OKC, DAL and PHL; second most favorable to PHX and least favorable to WAS (via OKC to HOU to PHX; via OKC to MIA to SAN to WAS) ; HOU if HOU 1-4 in 2026 1 + 1"
+Oklahoma City Thunder Future NBA Draft Picks,2027,First,"Two most / more favorable of OKC, DEN 6-30 and LAC (via OKC swap of OKC or DEN for LAC) ; PHL 5-30 if not already settled ; SAN 17-30 (via SAC) 1 + 3"
+Oklahoma City Thunder Future NBA Draft Picks,2027,Second,"Most favorable of OKC, HOU, IND and MIA; second and third most favorable to NYK; more favorable of (i) SAN and (ii) least favorable of OKC, HOU, IND and MIA to SAN then least favorable of all to MIA (via HOU to DET to OKC to NYK; via MIA to OKC to UTH to SAN to MIA) ; CHA if SAN 1-16 in 2027 (via SAC) ; SAC if SAN 1-16 in 2027; PHL if PHL has not conveyed 1st round pick to OKC by 2027 1 + 3"
+Oklahoma City Thunder Future NBA Draft Picks,2028,First,Own or swap for DAL ; DEN 6-30 if not already settled 1 + 1
+Oklahoma City Thunder Future NBA Draft Picks,2028,Second,Own ; MIL (via BRK to HOU) ; UTH 3
+Oklahoma City Thunder Future NBA Draft Picks,2029,First,Own ; DEN 6-30 if not already settled ; or DEN 6-30 if DEN has conveyed a first potential 1st round pick to OKC by 2027 1 + 1
+Oklahoma City Thunder Future NBA Draft Picks,2029,Second,Own ; ATL; BOS; DEN if DEN has not conveyed a first potential 1st round pick to OKC by 2029 ; MIA 4 + 1
+Oklahoma City Thunder Future NBA Draft Picks,2030,First,Own ; DEN 6-30 if not already settled and if DEN has conveyed a first potential 1st round pick to OKC by 2028 1 + 1
+Oklahoma City Thunder Future NBA Draft Picks,2030,Second,Own ; DEN (via CHA) ; HOU; MIA 4
+Oklahoma City Thunder Future NBA Draft Picks,2031,First,Own 1
+Oklahoma City Thunder Future NBA Draft Picks,2031,Second,Own ; Less favorable of NOP and ORL (via ORL swap for NOP) 2
+Oklahoma City Thunder Future NBA Draft Picks,2032,First,Own 1
+Oklahoma City Thunder Future NBA Draft Picks,2032,Second,Own 1
+Orlando Magic Future NBA Draft Picks,2026,First,"Two most favorable of (i) ORL, (ii) less favorable of PHX and WAS 1-8 [or (ii) PHX if WAS not conveyable] and (iii) MEM to MEM then least favorable of all to CHA (via WAS swap for PHX; via MEM swap of ORL for PHX or WAS; via MEM swap for PHX, WAS or ORL; via PHX to CHA) 0"
+Orlando Magic Future NBA Draft Picks,2026,Second,"Second most favorable of ORL, DET and MIL; most favorable to BOS and least favorable to NYK (via MIL to ORL; via DET to LAC to ORL; via ORL to PHX to BRK to NYK) 1"
+Orlando Magic Future NBA Draft Picks,2027,First,Own 1
+Orlando Magic Future NBA Draft Picks,2027,Second,Less favorable of ORL and BOS then other to BOS (via ORL) 1
+Orlando Magic Future NBA Draft Picks,2028,First,To POR (via MEM) 0
+Orlando Magic Future NBA Draft Picks,2028,Second,Own ; More favorable of LAL and WAS (via LAL) 2
+Orlando Magic Future NBA Draft Picks,2029,First,1-2 Own; 3-30 Own or MEM (via MEM swap for ORL) 1
+Orlando Magic Future NBA Draft Picks,2029,Second,To MEM if ORL 1-2 in 2029 1
+Orlando Magic Future NBA Draft Picks,2030,First,To MEM 0
+Orlando Magic Future NBA Draft Picks,2030,Second,Own or swap for NOP ; MIL 2
+Orlando Magic Future NBA Draft Picks,2031,First,Own 1
+Orlando Magic Future NBA Draft Picks,2031,Second,More favorable of ORL and NOP then other to OKC (via ORL swap for NOP) 1
+Orlando Magic Future NBA Draft Picks,2032,First,Own 1
+Orlando Magic Future NBA Draft Picks,2032,Second,Own 1
+Philadelphia Sixers Future NBA Draft Picks,2026,First,1-4 Own; 5-30 to OKC 1
+Philadelphia Sixers Future NBA Draft Picks,2026,Second,"Most favorable of PHL, OKC and DAL to OKC; second most favorable to PHX and least favorable to WAS (via OKC to HOU to PHX; via OKC to MIA to SAN to WAS) 0"
+Philadelphia Sixers Future NBA Draft Picks,2027,First,1-4 Own; 5-30 to OKC if not already settled 1
+Philadelphia Sixers Future NBA Draft Picks,2027,Second,To OKC if PHL has not conveyed 1st round pick to OKC by 2027 ; More favorable of GOS and PHX (via WAS) 1 + 1
+Philadelphia Sixers Future NBA Draft Picks,2028,First,"1-8 Own; if (i) PHL 9-30 , if PHL conveys 1st round pick to OKC in 2026, is third most favorable and (ii) NYK is most or second most favorable of PHL 9-30 if conveyable , PHX, BRK and NYK, then most and third most favorable to BRK; or most / two most favorable to BRK in all other scenarios ; least favorable of PHX, BRK and NYK to NYK if NYK and / or if PHL 9-30 , if conveyable, is less favorable than PHX and BRK; or second most favorable of PHX, BRK and NYK to NYK in all other scenarios ; more favorable of (i) WAS and (ii) least / less favorable of PHL 9-30 if conveyable , PHX and BRK to WAS then least favorable of all to PHX [WAS can then swap with MIL] (via BRK swap of BRK or PHL for PHX; via BRK swap of BRK or PHX for NYK; via WAS swap for PHX, BRK or PHL) ; LAC 1 + 1"
+Philadelphia Sixers Future NBA Draft Picks,2028,Second,To BRK if PHL does not convey 1st round pick to BRK in 2028 ; DET 56-60; GOS (via POR to WAS) 1 + 2
+Philadelphia Sixers Future NBA Draft Picks,2029,First,Own or swap for LAC 4-30 1
+Philadelphia Sixers Future NBA Draft Picks,2029,Second,Own 1
+Philadelphia Sixers Future NBA Draft Picks,2030,First,Own 1
+Philadelphia Sixers Future NBA Draft Picks,2030,Second,To DAL ; More favorable of PHX and POR (via WAS) ; WAS 2
+Philadelphia Sixers Future NBA Draft Picks,2031,First,Own 1
+Philadelphia Sixers Future NBA Draft Picks,2031,Second,Own 1
+Philadelphia Sixers Future NBA Draft Picks,2032,First,Own 1
+Philadelphia Sixers Future NBA Draft Picks,2032,Second,Own 1
+Phoenix Suns Future NBA Draft Picks,2026,First,"More favorable of PHX and WAS 1-8 to WAS [or neither to WAS if WAS not conveyable] ; two most favorable of (i) less favorable of PHX and WAS 1-8 [or (ii) PHX if WAS not conveyable] , (ii) MEM and (iii) ORL to MEM then least favorable of all to CHA (via WAS swap for PHX; via MEM swap of ORL for PHX or WAS; via MEM swap for PHX, WAS or ORL; via PHX to CHA) 0"
+Phoenix Suns Future NBA Draft Picks,2026,Second,"To WAS ; Second most favorable of OKC, DAL and PHL (via OKC to HOU) 1"
+Phoenix Suns Future NBA Draft Picks,2027,First,"To HOU (via BRK) ; Least favorable of UTH, CLE and MIN (via CLE and MIN to UTH) 1"
+Phoenix Suns Future NBA Draft Picks,2027,Second,More favorable of PHX and GOS to PHL then other to WAS (via WAS) 0
+Phoenix Suns Future NBA Draft Picks,2028,First,"Least favorable of PHX, PHL 9-30 if PHL conveys 1st round pick to OKC in 2026, WAS and BRK; more favorable of (i) WAS and (ii) least / less favorable of PHX, PHL 9-30 if conveyable, and BRK to WAS; if (i) PHL 9-30 , if conveyable, is third most favorable and (ii) NYK is most or second most favorable of PHX, BRK and PHL 9-30 if conveyable, and NYK, then most and third most favorable to BRK; or most / two most favorable to BRK in all other scenarios ; least favorable of PHX, BRK and NYK to NYK if NYK and / or if PHL 9-30 , if conveyable, is less favorable than PHX and BRK; or second most favorable of PHX, BRK and NYK to NYK in all other scenarios [WAS can then swap with MIL] (via BRK swap of BRK or PHL for PHX; via BRK swap of BRK or PHX for NYK; via WAS swap for PHX, BRK or PHL) 1"
+Phoenix Suns Future NBA Draft Picks,2028,Second,More favorable of PHX and IND to IND then other to NYK (via IND) 0
+Phoenix Suns Future NBA Draft Picks,2029,First,"Two most favorable of PHX, DAL and HOU to HOU then other to BRK (via DAL and PHX to BRK; via DAL or PHX to HOU; via HOU swap for DAL or PHX) 0"
+Phoenix Suns Future NBA Draft Picks,2029,Second,Own (via OKC to CHA) 1
+Phoenix Suns Future NBA Draft Picks,2030,First,"Least favorable of PHX, WAS and MEM; more favorable of PHX and WAS to WAS; more favorable of (i) MEM and (ii) less favorable of PHX and WAS to MEM (via WAS swap for PHX; via MEM swap for PHX or WAS) 1"
+Phoenix Suns Future NBA Draft Picks,2030,Second,More favorable of PHX and POR to PHL then other to WAS (via WAS) 0
+Phoenix Suns Future NBA Draft Picks,2031,First,To UTH 0
+Phoenix Suns Future NBA Draft Picks,2031,Second,To CHA 0
+Phoenix Suns Future NBA Draft Picks,2032,First,Frozen (through 2027-28) 1
+Phoenix Suns Future NBA Draft Picks,2032,Second,Less favorable of PHX and HOU then other to MIN (via PHX) 1
+Portland Trail Blazers Future NBA Draft Picks,2026,First,1-14 Own; 15-30 to CHI 1
+Portland Trail Blazers Future NBA Draft Picks,2026,Second,"Most favorable of POR, NOP, MIN and NYK to BOS; less favorable of POR and NOP to SAN; less favorable of (i) more favorable of POR and NOP and (ii) more favorable of MIN and NYK to WAS (via NOP to POR to NOP; via POR to DET; via MIN to NYK; via NOP to SAN; via DET to BOS; via DET to WAS) ; MEM 43-60 (via UTH to GOS) 1"
+Portland Trail Blazers Future NBA Draft Picks,2027,First,1-14 Own; 15-30 to CHI if not already settled 1
+Portland Trail Blazers Future NBA Draft Picks,2027,Second,Less favorable of POR and NOP then other to CHA [POR may convey to HOU; see following] ; then less favorable of POR and NOP to HOU if either or both 56-60 (via POR to NOP to CHA; via POR to BOS to HOU) ; ATL (via BOS to MEM) ; MIN (via HOU to OKC to NYK) 2 + 1
+Portland Trail Blazers Future NBA Draft Picks,2028,First,1-14 Own or swap for MIL; 15-30 to CHI if not already settled ; or Own or swap for MIL if POR has conveyed 1st round pick to CHI by 2027 [WAS can then swap with MIL] ; ORL (via MEM) 1 + 1
+Portland Trail Blazers Future NBA Draft Picks,2028,Second,To CHI if POR has not conveyed 1st round pick to CHI by 2028 ; SAC (via CHI to SAC to MEM) 1 + 1
+Portland Trail Blazers Future NBA Draft Picks,2029,First,"Most and least favorable of POR, BOS and MIL; second most favorable to WAS (via BOS to POR; via MIL to POR; via POR to WAS) 2"
+Portland Trail Blazers Future NBA Draft Picks,2029,Second,To MEM (via PHL to IND) ; Less favorable of IND and WAS (via IND to NYK) 1
+Portland Trail Blazers Future NBA Draft Picks,2030,First,Own or swap for MIL 1
+Portland Trail Blazers Future NBA Draft Picks,2030,Second,More favorable of POR and PHX to PHL then other to WAS (via WAS) ; NYK 1
+Portland Trail Blazers Future NBA Draft Picks,2031,First,Own 1
+Portland Trail Blazers Future NBA Draft Picks,2031,Second,Own 1
+Portland Trail Blazers Future NBA Draft Picks,2032,First,Own 1
+Portland Trail Blazers Future NBA Draft Picks,2032,Second,Own 1
+Sacramento Kings Future NBA Draft Picks,2026,First,Own 1
+Sacramento Kings Future NBA Draft Picks,2026,Second,Own ; CHA 31-55 (via NYK to ATL to SAN) 1 + 1
+Sacramento Kings Future NBA Draft Picks,2027,First,Own ; SAN 1-16 1 + 1
+Sacramento Kings Future NBA Draft Picks,2027,Second,To OKC if SAN 1-16 in 2027 ; CHA if SAN 17-30 in 2027 (via NYK to ATL to SAN) 2
+Sacramento Kings Future NBA Draft Picks,2028,First,Own 1
+Sacramento Kings Future NBA Draft Picks,2028,Second,To POR (via CHI to SAC to MEM) 0
+Sacramento Kings Future NBA Draft Picks,2029,First,Own 1
+Sacramento Kings Future NBA Draft Picks,2029,Second,"To HOU (via WAS) ; Least favorable of DET, MIL and NYK (via MIL to BRK to DET; via NYK to DET) 1"
+Sacramento Kings Future NBA Draft Picks,2030,First,Own 1
+Sacramento Kings Future NBA Draft Picks,2030,Second,To SAN (via IND) 0
+Sacramento Kings Future NBA Draft Picks,2031,First,Own or SAN (via SAN swap for SAC) ; MIN (via SAN) 2
+Sacramento Kings Future NBA Draft Picks,2031,Second,To SAN 0
+Sacramento Kings Future NBA Draft Picks,2032,First,Own 1
+Sacramento Kings Future NBA Draft Picks,2032,Second,Own 1
+San Antonio Spurs Future NBA Draft Picks,2026,First,Own or swap for ATL [ATL may convey to CLE] 1
+San Antonio Spurs Future NBA Draft Picks,2026,Second,More favorable of (i) SAN and (ii) less favorable of IND and MIA then least favorable of all to MIN (via MIA to IND; via SAN swap for IND or MIA) ; Less favorable of NOP and POR (via NOP to POR to NOP to SAN) ; UTH 31-55 (via MIN) 2 + 1
+San Antonio Spurs Future NBA Draft Picks,2027,First,1-16 to SAC; 17-30 to OKC (via SAC) ; ATL 1
+San Antonio Spurs Future NBA Draft Picks,2027,Second,"More favorable of (i) SAN and (ii) least favorable of OKC, HOU, IND and MIA then least favorable of all to MIA (via HOU to DET to OKC; via MIA to OKC to UTH to SAN to MIA) 1"
+San Antonio Spurs Future NBA Draft Picks,2028,First,Own or swap for BOS 2-30 1
+San Antonio Spurs Future NBA Draft Picks,2028,Second,Own ; BOS 31-45 if BOS 1 in 2028 ; MIN; NOP 3 + 1
+San Antonio Spurs Future NBA Draft Picks,2029,First,Own 1
+San Antonio Spurs Future NBA Draft Picks,2029,Second,Own ; LAC (via PHL) ; NOP 3
+San Antonio Spurs Future NBA Draft Picks,2030,First,"Most / more favorable of SAN, DAL and MIN 2-30; less favorable of SAN and DAL to DAL; less favorable of (i) MIN 2-30 and (ii) more favorable of SAN and DAL [or MIN if MIN not conveyable] to MIN (via SAN swap for DAL; via SAN swap of SAN or DAL for MIN) 1"
+San Antonio Spurs Future NBA Draft Picks,2030,Second,Own ; CLE; SAC (via IND) 3
+San Antonio Spurs Future NBA Draft Picks,2031,First,Own or swap for SAC 1
+San Antonio Spurs Future NBA Draft Picks,2031,Second,Own ; SAC 2
+San Antonio Spurs Future NBA Draft Picks,2032,First,Own 1
+San Antonio Spurs Future NBA Draft Picks,2032,Second,Own 1
+Toronto Raptors Future NBA Draft Picks,2026,First,Own 1
+Toronto Raptors Future NBA Draft Picks,2026,Second,31-55 Own; 56-60 to IND ; LAL (via CLE to MIA) 1 + 1
+Toronto Raptors Future NBA Draft Picks,2027,First,Own 1
+Toronto Raptors Future NBA Draft Picks,2027,Second,Own 1
+Toronto Raptors Future NBA Draft Picks,2028,First,Own 1
+Toronto Raptors Future NBA Draft Picks,2028,Second,Own 1
+Toronto Raptors Future NBA Draft Picks,2029,First,Own 1
+Toronto Raptors Future NBA Draft Picks,2029,Second,Own 1
+Toronto Raptors Future NBA Draft Picks,2030,First,Own 1
+Toronto Raptors Future NBA Draft Picks,2030,Second,Own 1
+Toronto Raptors Future NBA Draft Picks,2031,First,Own 1
+Toronto Raptors Future NBA Draft Picks,2031,Second,To NOP 0
+Toronto Raptors Future NBA Draft Picks,2032,First,Own 1
+Toronto Raptors Future NBA Draft Picks,2032,Second,Own 1
+Utah Jazz Future NBA Draft Picks,2026,First,"Most / more favorable of UTH 1-8, MIN and CLE; less favorable of UTH 1-8 and MIN [or MIN if UTH not conveyable] to MIN; less favorable of (i) CLE and (ii) more favorable of UTH 1-8 and MIN [or CLE if UTH not conveyable] to CLE [CLE may convey to ATL] ; UTH 9-30 to OKC (via UTH swap for MIN; via UTH swap of UTH or MIN for CLE) 1"
+Utah Jazz Future NBA Draft Picks,2026,Second,31-55 to SAN; 56-60 to MIL (via MIN to SAN) 0
+Utah Jazz Future NBA Draft Picks,2027,First,"Two most favorable of UTH, CLE and MIN then other to PHX (via CLE and MIN to UTH) ; LAL 5-30 2 + 1"
+Utah Jazz Future NBA Draft Picks,2027,Second,To IND (via CLE) ; LAC (via ATL to LAC) ; LAL if LAL does not convey 1st round pick to UTH in 2027 1 + 1
+Utah Jazz Future NBA Draft Picks,2028,First,Own or swap for CLE [CLE may convey UTH to ATL] 1
+Utah Jazz Future NBA Draft Picks,2028,Second,"To OKC ; Least favorable of (i) DET 31-55, (ii) less favorable of CHA and LAC (via CHA to DAL to DET) , (iii) MIA if DAL conveys 1st round pick to CHA in 2027 (via SAN to DAL to DET) and (iv) NYK (via DET) 1"
+Utah Jazz Future NBA Draft Picks,2029,First,"Most / two most favorable of UTH, CLE and MIN 6-30 then other to CHA (via CLE and MIN to UTH to PHX) 1 + 1"
+Utah Jazz Future NBA Draft Picks,2029,Second,Own ; MIN if MIN does not convey 1st round pick to UTH in 2029 1 + 1
+Utah Jazz Future NBA Draft Picks,2030,First,Own 1
+Utah Jazz Future NBA Draft Picks,2030,Second,Less favorable of UTH and LAC then other to CHA (via LAC to UTH) 1
+Utah Jazz Future NBA Draft Picks,2031,First,Own ; PHX 2
+Utah Jazz Future NBA Draft Picks,2031,Second,Own 1
+Utah Jazz Future NBA Draft Picks,2032,First,Own 1
+Utah Jazz Future NBA Draft Picks,2032,Second,To WAS 0
+Washington Wizards Future NBA Draft Picks,2026,First,"1-8 Own or swap for PHX; two most favorable of (i) less favorable of WAS 1-8 and PHX [or (ii) PHX if WAS not conveyable] , (ii) MEM and (iii) ORL to MEM then least favorable of all to CHA (via WAS swap for PHX; via MEM swap of ORL for PHX or WAS; via MEM swap for PHX, WAS or ORL; via PHX to CHA) ; WAS 9-30 to NYK (via HOU to OKC) ; Least / less favorable of OKC, HOU 5-30 and LAC (via OKC to PHL) 1 + 1"
+Washington Wizards Future NBA Draft Picks,2026,Second,"To NYK if WAS does not convey 1st round pick to NYK in 2026 (via HOU to OKC) ; Less favorable of (i) more favorable of MIN and NYK and (ii) more favorable of NOP and POR (via MIN to NYK; via NOP to POR to NOP; via POR to DET to WAS) ; Least favorable of OKC, DAL and PHL (via OKC to MIA to SAN) ; PHX 3 + 1"
+Washington Wizards Future NBA Draft Picks,2027,First,Own 1
+Washington Wizards Future NBA Draft Picks,2027,Second,"To NYK if WAS does not convey 1st round pick to NYK in 2026 (via HOU to OKC) ; More favorable of BRK and DAL (via DAL to BRK to DET; via DET to WAS) ; CHI (in separate, protected conveyances; via WAS to NOP) ; Less favorable of GOS and PHX 3 + 1"
+Washington Wizards Future NBA Draft Picks,2028,First,"More favorable of (i) more favorable of (a) WAS and (b) least / less favorable of BRK, PHL 9-30 if PHL conveys 1st round pick to OKC in 2026, and PHX and (ii) less favorable of MIL and POR 1-14 if POR has not conveyed 1st round pick to CHI by 2027 [or (ii) MIL if POR not conveyable] then less favorable of (i) and (ii) to MIL; or More favorable of (i) more favorable of (a) WAS and (b) least / less favorable of BRK, PHL 9-30 if PHL conveys 1st round pick to OKC in 2026, and PHX and (ii) less favorable of MIL and POR if POR has conveyed 1st round pick to CHI by 2027, then less favorable of (i) and (ii) to MIL; least favorable of WAS, PHL 9-30 if PHL does not convey 1st round pick to BRK in 2027 and if PHL has conveyed 1st round pick to OKC by 2026 , BRK and PHX to PHX (via POR swap for MIL; via BRK swap of BRK or PHL for PHX; via WAS swap for PHX, BRK or PHL; via WAS swap of WAS, BRK, PHL or PHX for MIL or POR) 1"
+Washington Wizards Future NBA Draft Picks,2028,Second,Less favorable of WAS and LAL then other to ORL (via WAS to LAL to ORL; via LAL to WAS) ; DEN 34-60 (via SAN to SAC) 1 + 1
+Washington Wizards Future NBA Draft Picks,2029,First,"Own ; Second most favorable of POR, BOS and MIL (via BOS to POR; via MIL to POR; via POR to WAS) 2"
+Washington Wizards Future NBA Draft Picks,2029,Second,More favorable of WAS and IND to IND then other to POR (via IND to NYK) ; HOU (via OKC) ; LAL 2
+Washington Wizards Future NBA Draft Picks,2030,First,More favorable of WAS and PHX; more favorable of (i) MEM and (ii) less favorable of WAS and PHX to MEM then least favorable of all to PHX (via WAS swap for PHX; via MEM swap for WAS or PHX) ; GOS 21-30 1 + 1
+Washington Wizards Future NBA Draft Picks,2030,Second,To PHL ; GOS if GOS does not convey 1st round pick to WAS in 2030 ; Less favorable of PHX and POR 1 + 1
+Washington Wizards Future NBA Draft Picks,2031,First,Own 1
+Washington Wizards Future NBA Draft Picks,2031,Second,Own ; More favorable of MIA and IND (via MIA swap for IND; via UTH) 2
+Washington Wizards Future NBA Draft Picks,2032,First,Own 1
+Washington Wizards Future NBA Draft Picks,2032,Second,Own ; UTH 2
